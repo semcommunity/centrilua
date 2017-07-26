@@ -1,7 +1,8 @@
 package = "centrilua"
 version = "1.0-1"
 source = {
-  url = "git+https://github.com/semcommunity/centrilua"
+  url = "git://github.com/semcommunity/centrilua",
+  tag = "v1.0",
 }
 description = {
   summary = "Lua Centrifugo API Client",
